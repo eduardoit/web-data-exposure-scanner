@@ -65,11 +65,11 @@ VERSION = "1.1.0"
 BANNER = f"""
 {Fore.CYAN}╔══════════════════════════════════════════════════════════════════════════════╗
 ║ {Fore.WHITE}██╗    ██╗██████╗ ███████╗███████╗{Fore.CYAN}                                           ║
-║ {Fore.WHITE}██║    ██║██╔══██╗██╔════╝██╔════╝{Fore.CYAN}   Web Data Exposure Scanner              ║
-║ {Fore.WHITE}██║ █╗ ██║██║  ██║█████╗  ███████╗{Fore.CYAN}   v{VERSION}                                 ║
+║ {Fore.WHITE}██║    ██║██╔══██╗██╔════╝██╔════╝{Fore.CYAN}   Web Data Exposure Scanner               ║
+║ {Fore.WHITE}██║ █╗ ██║██║  ██║█████╗  ███████╗{Fore.CYAN}   v{VERSION}                                  ║
 ║ {Fore.WHITE}██║███╗██║██║  ██║██╔══╝  ╚════██║{Fore.CYAN}                                           ║
-║ {Fore.WHITE}╚███╔███╔╝██████╔╝███████╗███████║{Fore.CYAN}   OSINT Tool for Security Audits         ║
-║ {Fore.WHITE} ╚══╝╚══╝ ╚═════╝ ╚══════╝╚══════╝{Fore.CYAN}                                           ║
+║ {Fore.WHITE}╚███╔███╔╝██████╔╝███████╗███████║{Fore.CYAN}   OSINT Tool for Security Audits          ║
+║ {Fore.WHITE} ╚══╝╚══╝ ╚═════╝ ╚══════╝╚══════╝{Fore.CYAN}   Developed by: emopulsex-sec             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
 """
 
