@@ -10,7 +10,7 @@
 
 **WDES** es una herramienta OSINT (Open Source Intelligence) diseñada para detectar datos sensibles expuestos en sitios web. Permite identificar emails, documentos de identidad, números de teléfono y archivos potencialmente sensibles que puedan estar accesibles públicamente.
 
-## ⚠️ Aviso Legal y Uso Ético
+## ⚠️ Aviso legal y uso ético
 
 Esta herramienta está diseñada **ÚNICAMENTE** para:
 
@@ -330,7 +330,7 @@ Si encuentras bugs o tienes sugerencias, por favor abre un [Issue](https://githu
 ---
 
 <p align="center">
-  <strong>Hecho con ❤️ para la comunidad de seguridad</strong>
+  <strong>Hecho para la comunidad de seguridad</strong>
 </p>
 
 <p align="center">
