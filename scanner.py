@@ -6,7 +6,7 @@
 ║  Herramienta OSINT para detectar datos sensibles expuestos en sitios web     ║
 ║  Detecta: emails, documentos de identidad, teléfonos y patrones custom       ║
 ║                                                                              ║
-║  Autor: emopulsex-sec (https://github.com/emopulsex-sec)                     ║
+║  Autor: eduardoit (https://github.com/eduardoit)                             ║
 ║  Licencia: MIT                                                               ║
 ║  Versión: 1.1.0                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -69,7 +69,7 @@ BANNER = f"""
 ║ {Fore.WHITE}██║ █╗ ██║██║  ██║█████╗  ███████╗{Fore.CYAN}   v{VERSION}                                  ║
 ║ {Fore.WHITE}██║███╗██║██║  ██║██╔══╝  ╚════██║{Fore.CYAN}                                           ║
 ║ {Fore.WHITE}╚███╔███╔╝██████╔╝███████╗███████║{Fore.CYAN}   OSINT Tool for Security Audits          ║
-║ {Fore.WHITE} ╚══╝╚══╝ ╚═════╝ ╚══════╝╚══════╝{Fore.CYAN}   Developed by: emopulsex-sec             ║
+║ {Fore.WHITE} ╚══╝╚══╝ ╚═════╝ ╚══════╝╚══════╝{Fore.CYAN}   Developed by: eduardoit                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
 """
 
