@@ -63,7 +63,7 @@ Esta herramienta está diseñada **ÚNICAMENTE** para:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/emopulsex-sec/web-data-exposure-scanner.git
+git clone https://github.com/eduardoit/web-data-exposure-scanner.git
 cd web-data-exposure-scanner
 
 # Instalar dependencias
@@ -83,7 +83,7 @@ pip install requests beautifulsoup4 colorama tqdm
 pip install PySocks
 
 # Descargar el script
-wget https://raw.githubusercontent.com/emopulsex-sec/web-data-exposure-scanner/main/scanner.py
+wget https://raw.githubusercontent.com/eduardoit/web-data-exposure-scanner/main/scanner.py
 
 # Dar permisos de ejecución (Linux/Mac)
 chmod +x scanner.py
