@@ -1,3 +1,4 @@
+🇬🇧 [Read in English](README.md)
 # 🔍 Web Data Exposure Scanner (WDES)
 
 <p align="center">
